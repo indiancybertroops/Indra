@@ -35,7 +35,7 @@ Just Execute And Choose Options And Enter Site And it Will Automatically Work Re
 >Low Bandwith/Data Consume
 >to find Host Header Injection Vuln
 >Without Brutforce(To save your valuable Time) 
-# Main Phanto-M Image
+# Main Indra Image
 ![](Screenshot_20220110_012733.png)
 # Installation :
 > clone via git clone
