@@ -44,7 +44,7 @@ Just Execute And Choose Options And Enter Site And it Will Automatically Work Re
 git clone https://github.com/indiancybertroops/indra
 ```
 ```
-cd indra.sh
+cd indra
 ```
 ```
 chmod +777 *
